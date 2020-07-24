@@ -1,0 +1,21 @@
+var json_6_5 = {
+"type": "FeatureCollection",
+"name": "6_5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": "1", "x": 117.19227, "y": -0.537463, "foto": "1.jpg", "ketingian banjir": "48 cm", "img": "<img src =\"images\/1.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.129565136204818, -0.538022793328529 ] } },
+{ "type": "Feature", "properties": { "fid": "2", "x": 117.129257, "y": -0.537577, "foto": "2.jpg", "ketingian banjir": "35 cm", "img": "<img src =\"images\/2.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.129446085340518, -0.537751983108198 ] } },
+{ "type": "Feature", "properties": { "fid": "3", "x": 117.129341, "y": -0.537683, "foto": "3.jpg", "ketingian banjir": "25 cm", "img": "<img src =\"images\/3.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.129183142860256, -0.537598007781918 ] } },
+{ "type": "Feature", "properties": { "fid": "4", "x": 117.131439, "y": -0.532789, "foto": "4.jpg", "ketingian banjir": "49 cm", "img": "<img src =\"images\/4.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.128827815184223, -0.537396655432167 ] } },
+{ "type": "Feature", "properties": { "fid": "5", "x": 117.130112, "y": -0.538078, "foto": "5.jpg", "ketingian banjir": "58 cm", "img": "<img src =\"images\/5.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.130112, -0.538078 ] } },
+{ "type": "Feature", "properties": { "fid": "6", "x": 117.129883, "y": -0.537876, "foto": "6.jpg", "ketingian banjir": "81 cm", "img": "<img src =\"images\/6.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.129796675314196, -0.537801728982843 ] } },
+{ "type": "Feature", "properties": { "fid": "7", "x": 117.13002, "y": -0.53806, "foto": "7.jpg", "ketingian banjir": "89 cm", "img": "<img src =\"images\/7.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.13002, -0.53806 ] } },
+{ "type": "Feature", "properties": { "fid": "8", "x": 117.130096, "y": -0.53811, "foto": "8.jpg", "ketingian banjir": "55 cm", "img": "<img src =\"images\/8.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.130096, -0.53811 ] } },
+{ "type": "Feature", "properties": { "fid": "9", "x": 117.129883, "y": -0.537602, "foto": "9.jpg", "ketingian banjir": "58 cm", "img": "<img src =\"images\/9.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.129883, -0.537602 ] } },
+{ "type": "Feature", "properties": { "fid": "10", "x": 117.128815, "y": -0.53762, "foto": "10.jpg", "ketingian banjir": "53 cm", "img": "<img src =\"images\/10.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.129623749178535, -0.537453507860332 ] } },
+{ "type": "Feature", "properties": { "fid": "11", "x": 117.131439, "y": -0.532789, "foto": "11.jpg", "ketingian banjir": "44 cm", "img": "<img src =\"images\/11.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.129420027977616, -0.537209516189458 ] } },
+{ "type": "Feature", "properties": { "fid": "12", "x": 117.130234, "y": -0.537498, "foto": "12.jpg", "ketingian banjir": "40 cm", "img": "<img src =\"images\/12.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.129680601606694, -0.537306639087573 ] } },
+{ "type": "Feature", "properties": { "fid": "13", "x": 117.130096, "y": -0.537632, "foto": "13.jpg", "ketingian banjir": "38 cm", "img": "<img src =\"images\/13.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.130047773538593, -0.537280581724664 ] } },
+{ "type": "Feature", "properties": { "fid": "14", "x": 117.129791, "y": -0.537367, "foto": "14.jpg", "ketingian banjir": "65 cm", "img": "<img src =\"images\/14.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.129817994974758, -0.537081598226087 ] } }
+]
+}

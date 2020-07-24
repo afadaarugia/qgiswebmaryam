@@ -1,0 +1,17 @@
+var json_2_6 = {
+"type": "FeatureCollection",
+"name": "2_6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": "1", "X": 117.103455, "Y": -0.54695, "Lokasi": "\tLokasi 1\t", "Kode_Foto": "\tbanjir1.jpg\t", "Tinggi_Banjir(cm)": "\t34cm\t", "img": "\t<img src =\"images\/banjir1.jpg\" height=\"200\" width=\"250\"\/>\t" }, "geometry": { "type": "Point", "coordinates": [ 117.103455, -0.54695 ] } },
+{ "type": "Feature", "properties": { "fid": "2", "X": 117.101579, "Y": -0.548553, "Lokasi": "\tLokasi 2\t", "Kode_Foto": "\tbanjir2.jpg\t", "Tinggi_Banjir(cm)": "\t44cm\t", "img": "<img src =\"images\/banjir2.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.101579, -0.548553 ] } },
+{ "type": "Feature", "properties": { "fid": "3", "X": 117.102327, "Y": -0.550231, "Lokasi": "\tLokasi 3\t", "Kode_Foto": "\tbanjir3.jpg\t", "Tinggi_Banjir(cm)": "\t28cm\t", "img": "<img src =\"images\/banjir3.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.102327, -0.550231 ] } },
+{ "type": "Feature", "properties": { "fid": "4", "X": 117.101891, "Y": -0.550637, "Lokasi": "\tLokasi 4\t", "Kode_Foto": "\tbanjir4.jpg\t", "Tinggi_Banjir(cm)": "\t32cm\t", "img": "<img src =\"images\/banjir4.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.101891, -0.550637 ] } },
+{ "type": "Feature", "properties": { "fid": "5", "X": 117.103086, "Y": -0.54925, "Lokasi": "\tLokasi 5\t", "Kode_Foto": "\tbanjir5.jpg\t", "Tinggi_Banjir(cm)": "\t19cm\t", "img": "<img src =\"images\/banjir5.jpg\" height=\"200\" width=\"250\"\/>\t" }, "geometry": { "type": "Point", "coordinates": [ 117.103086, -0.54925 ] } },
+{ "type": "Feature", "properties": { "fid": "6", "X": 117.102957, "Y": -0.548612, "Lokasi": "\tLokasi 6\t", "Kode_Foto": "\tbanjir6.jpg\t", "Tinggi_Banjir(cm)": "\t37cm\t", "img": "<img src =\"images\/banjir6.jpg\" height=\"200\" width=\"250\"\/>\t" }, "geometry": { "type": "Point", "coordinates": [ 117.102957, -0.548612 ] } },
+{ "type": "Feature", "properties": { "fid": "7", "X": 117.102419, "Y": -0.547743, "Lokasi": "\tLokasi 7\t", "Kode_Foto": "\tbanjir7.jpg\t", "Tinggi_Banjir(cm)": "\t41cm\t", "img": "<img src =\"images\/banjir7.jpg\" height=\"200\" width=\"250\"\/>\t" }, "geometry": { "type": "Point", "coordinates": [ 117.102419, -0.547743 ] } },
+{ "type": "Feature", "properties": { "fid": "8", "X": 117.103124, "Y": -0.547347, "Lokasi": "\tLokasi 8\t", "Kode_Foto": "\tbanjir8.jpg\t", "Tinggi_Banjir(cm)": "\t32cm\t", "img": "\t<img src =\"images\/banjir8.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.103124, -0.547347 ] } },
+{ "type": "Feature", "properties": { "fid": "9", "X": 117.102658, "Y": -0.547417, "Lokasi": "\tLokasi 9\t", "Kode_Foto": "\tbanjir9.jpg\t", "Tinggi_Banjir(cm)": "\t21cm\t", "img": "<img src =\"images\/banjir9.jpg\" height=\"200\" width=\"250\"\/>" }, "geometry": { "type": "Point", "coordinates": [ 117.102658, -0.547417 ] } },
+{ "type": "Feature", "properties": { "fid": "10", "X": 117.103298, "Y": -0.54736, "Lokasi": "\tLokasi 10\t", "Kode_Foto": "\tbanjir10.jpg\t", "Tinggi_Banjir(cm)": "\t29cm\t", "img": "<img src =\"images\/banjir10.jpg\" height=\"200\" width=\"250\"\/>\t" }, "geometry": { "type": "Point", "coordinates": [ 117.103298, -0.54736 ] } }
+]
+}
